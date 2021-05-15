@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Jyotiprakash Roy
-- 👀  I’m interested in Data Science, Flutter Developmemnt and Computer Graphics
+- 👀  I’m interested in Machine Learning, Flutter Developmemnt and Computer Graphics
 - 🌱  I’m currently a student at IIEST Shibpur
 - 📫  Contact me by email: jyotiproy5@gmail.com
 
