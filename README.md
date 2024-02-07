@@ -1,6 +1,6 @@
 -  Hi, I’m Jyotiprakash Roy
 -  I’m interested in Machine Learning, Flutter and Web Development
--  I’m currently a student at IIEST Shibpur
+-  I’m currently a Software Engineer at Accenture India (Kolkata)
 -  Contact me by email: jyotiproy5@gmail.com
 
 <!---
